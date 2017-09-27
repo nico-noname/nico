@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Add Nicofinder link Userscript
+// @name         tesuto2 Userscript
 // @namespace    https://github.com/nico-noname
 // @version      0.11
 // @description  Add Nicofinder link
@@ -17,6 +17,6 @@
 
     $("li[data-id]").each(function(i) {
         let dataid = $(this).attr("data-id");
-        $(this).find("li.count.comment").children().wrapInner("<a></a>").children().attr("href",Nicof+dataid).attr("target","_new");
+        $(this).find("li.count.comment").children().wrapInner("<a></a>").children().attr({"href":Nicof+dataid,"target":"_new"});
     });
 })();
