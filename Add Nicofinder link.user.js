@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         tesuto2 Userscript
 // @namespace    https://github.com/nico-noname
-// @version      0.11
+// @version      0.12
 // @description  Add Nicofinder link
 // @author       nico-noname
 // @match        *://www.nicovideo.jp/*
