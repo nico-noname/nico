@@ -4,8 +4,9 @@
 // @version      0.011
 // @description  Add Nicofinder Link
 // @author       nico-noname
-// @match        *://www.nicovideo.jp/*
-// @exclude      *://www.nicovideo.jp/mylist/*
+// @match        *//www.nicovideo.jp/ranking/*
+// @match        *//www.nicovideo.jp/search/*
+// @match        *//www.nicovideo.jp/tag/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js
 // @grant        none
 // ==/UserScript==
