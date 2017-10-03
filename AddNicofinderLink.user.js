@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Add Nicofinder Link
 // @namespace    https://github.com/nico-noname
-// @version      0.011
+// @version      0.012
 // @description  Add Nicofinder Link
 // @author       nico-noname
 // @match        *//www.nicovideo.jp/ranking/*
