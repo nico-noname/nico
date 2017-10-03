@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Add Nicofinder Link
 // @namespace    https://github.com/nico-noname
-// @version      0.01
+// @version      0.011
 // @description  Add Nicofinder Link
 // @author       nico-noname
 // @match        *://www.nicovideo.jp/*
 // @exclude      *://www.nicovideo.jp/mylist/*
-// @require      http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js
 // @grant        none
 // ==/UserScript==
 
